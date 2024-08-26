@@ -1,5 +1,5 @@
 # Use the official BusyBox image as base
-FROM registry.hub.docker.com/akshaydocker/busybox:1.0.0
+FROM registry.hub.docker.com/akshaydocker/busybox:1.0
 
 # Set a maintainer label for the image
 LABEL maintainer="your_email@example.com"
