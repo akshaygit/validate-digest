@@ -1,5 +1,5 @@
 # Use the official BusyBox image as base
-FROM busybox:1.0.0
+FROM busybox:1.0.1
 
 # Set a maintainer label for the image
 LABEL maintainer="your_email@example.com"
